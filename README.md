@@ -52,13 +52,3 @@ Example statistics output:
 python3 -m unittest discover -s tests -q
 ```
 
-## Why This Repository Matters
-
-Embodied AI projects often fail in boring but important places:
-
-- inconsistent episode schema
-- missing action metadata
-- poor visibility into action distributions and task balance
-- no quick way to inspect trajectories without spinning up the full simulator
-
-This repository addresses those workflow gaps directly.
